@@ -1,4 +1,4 @@
-# Hi, I'm Jana Ahmed Mohamed 👋
+# Hi, I'm Jana Abdallah 👋
 
 ### Software Engineering Student
 
