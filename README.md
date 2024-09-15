@@ -40,5 +40,6 @@ Welcome to my GitHub! I'm a passionate Software Engineering student at Cairo Uni
 
 Feel free to reach out to me if you'd like to collaborate on a project, ask questions, or just chat!
 
-- **LinkedIn**: [Jana Abdallah](https://www.linkedin.com/in/jana-abdallah-458a74216/)
-- **Email**: [Jana Abdallah](jana.a.m.abdallah@gmail.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/jana-abdallah-458a74216/)
+- **Email**: [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:jana.a.m.abdallah@gmail.com)
+
