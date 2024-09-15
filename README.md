@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jana Ahmed Mohamed 👋
 
-<!--
-**JanaAbdallah/JanaAbdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate Software Engineering student at Cairo University, continuously learning and building projects in various fields, including game development, embedded systems, and frontend development. I enjoy exploring new technologies and sharing my journey with the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 I'm currently studying **Software Engineering** at **Cairo University**.
+- 💻 I enjoy coding in **C, C++, C#, Java**, and I'm expanding my knowledge in **JavaScript**.
+- 🔧 I have a strong interest in **embedded systems**, currently pursuing a diploma in AVR microcontrollers.
+- ✨ I've built various projects using C,C++ and JavaScript
+- 🌱 I’m always looking to learn new things, with a focus on frontend development and low-level programming.
+- 📚 I enjoy reading books 
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: C, C++, C#, JavaScript, SQL
+- **Web Development**: HTML, CSS, JavaScript
+- **Embedded Systems**: AVR, microcontrollers
+- **Version Control**: Git, GitHub
+- **Operating Systems**: Windows, macOS, Linux
+
+---
+
+## 🌟 Interests
+
+- Embedded Systems
+- Frontend Development
+- Algorithm Design
+- Reading technical and motivational books
+
+---
+
+## 💬 Let's Connect
+
+Feel free to reach out to me if you'd like to collaborate on a project, ask questions, or just chat!
+
+- **LinkedIn**: [Jana Abdallah](https://www.linkedin.com/in/jana-abdallah-458a74216/)
+- **Email**: [Jana Abdallah](jana.a.m.abdallah@gmail.com)
