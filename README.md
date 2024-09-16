@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate Software Engineering student at Cairo Uni
 ## 🚀 About Me
 
 - 🎓 I'm currently studying **Software Engineering** at **Cairo University**.
-- 💻 I enjoy coding in **C, C++, C#, Java**, and I'm expanding my knowledge in **JavaScript**.
+- 💻 I enjoy coding in **C, C++, Java**, and I'm expanding my knowledge in **JavaScript**.
 - 🔧 I have a strong interest in **embedded systems**, currently pursuing a diploma in AVR microcontrollers.
 - ✨ I've built various projects using C,C++ and JavaScript
 - 🌱 I’m always looking to learn new things, with a focus on frontend development and low-level programming.
