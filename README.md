@@ -35,6 +35,7 @@ Welcome to my GitHub! I'm a passionate Software Engineering student at Cairo Uni
 - Reading technical and motivational books
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JanaAbdallah)](https://git.io/streak-stats)
 
 ## 💬 Let's Connect
 
