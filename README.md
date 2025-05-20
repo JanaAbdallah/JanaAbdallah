@@ -1,19 +1,22 @@
 # 👋 Hi, I'm Jana Abdallah
 
-### 🎓 Software Engineering Student | 💡 Tech Explorer | 🤖 Embedded & Frontend Enthusiast
+### 🎓 Software Engineering Student | 🔧 Backend Developer | 🌐 Full-Stack Developer in Progress
 
-Welcome to my GitHub space! I’m a Software Engineering student at Cairo University who loves diving into code, exploring tech from the **lowest level (embedded systems)** to the **front-facing user experience (frontend dev)**. Whether it's blinking an LED or crafting a responsive UI — I’m here for it.
+Hey there! I’m Jana, a Software Engineering student at Cairo University, and I *love building what runs under the hood*. From managing databases to writing business logic, backend development is my playground — but I’m also exploring the frontend world to become a confident **Full-Stack Developer**.
+
+Whether it's optimizing queries or experimenting with UI, I’m always up for learning something new.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently studying **Software Engineering** at **Cairo University**.
-- 💻 I code in **C, C++, Java**, and dabble in **JavaScript**.
-- 🔧 Pursuing an **Embedded Systems Diploma** focused on **AVR microcontrollers**.
-- 🌱 Currently learning **Spring Boot**, **Java EE**, and testing tools like **Robot Framework** and **Mockito**.
-- 🧪 Enjoy working on testing and automation in addition to development.
-- 📚 I’m a bookworm for both technical topics and occasional motivational reads.
+- 🎓 Software Engineering student at **Cairo University**.
+- 💻 Backend Developer with a focus on **Java, C++, C**, and exploring **JavaScript** for frontend.
+- ⚙️ Learning my way through **Spring Boot**, **Java EE**, **EJB**, and **Maven**.
+- 🧪 Practicing testing with tools like **Robot Framework**, **Mockito**, **JUnit**, and **Postman**.
+- 🔩 Currently diving deep into **AVR microcontrollers** as part of my **Embedded Systems Diploma**.
+- 🌐 Passionate about becoming a **Full-Stack Developer** by bridging backend with frontend skills.
+- 📖 Book lover — especially into technical deep-dives and occasional motivational reads.
 
 ---
 
@@ -22,11 +25,11 @@ Welcome to my GitHub space! I’m a Software Engineering student at Cairo Univer
 **Languages**  
 C • C++ • C# • Java • JavaScript • SQL
 
-**Web Development**  
-HTML • CSS • JavaScript
+**Backend & Enterprise Development**  
+Spring Boot • Java EE • EJB • JPA • Maven
 
-**Backend / Enterprise**  
-Spring Boot • Java EE • JPA • EJB • Maven
+**Web Development**  
+HTML • CSS • JavaScript *(learning...)*
 
 **Testing & Automation**  
 JUnit • Mockito • Robot Framework • Postman
@@ -34,21 +37,16 @@ JUnit • Mockito • Robot Framework • Postman
 **Embedded Systems**  
 AVR • Microcontrollers
 
-**Tools & Platforms**  
-Git • GitHub • IntelliJ • Eclipse • VS Code
-
-**Operating Systems**  
-Windows • macOS • Linux
-
 ---
 
-## 🌟 What I’m Into
+## 🌟 Interests
 
+- 🖥️ Backend Development
+- 🧪 Testing & Automation
 - 🔋 Embedded Systems
-- 🎨 Frontend Development
+- 🌱 Learning Frontend (to become Full-Stack)
 - 🧠 Algorithm Design
-- 📘 Reading technical & motivational books
-- 🧪 Software Testing & Quality Assurance
+- 📚 Reading technical & motivational books
 
 ---
 
@@ -69,8 +67,12 @@ Want to collaborate, brainstorm, or just chat about tech? I’d love to connect!
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:jana.a.m.abdallah@gmail.com)
 
 ---
-                ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)](https://git.io/streak-stats)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)](https://git.io/streak-stats)
   
-                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+---
 
 ✨ *“Learning never stops. I’m here to grow, build, and share — one commit at a time.”*
