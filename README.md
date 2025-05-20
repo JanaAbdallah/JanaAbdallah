@@ -40,19 +40,19 @@ Here are some repositories I've worked on with my team — real code, real learn
 
 ---
 
+   ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)
+  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+---
+
 ## 💬 Let’s Connect!
 
 Want to collaborate, brainstorm, or just chat about tech? I’d love to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/jana-abdallah-458a74216/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:jana.a.m.abdallah@gmail.com)
-
----
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 
 ---
 
