@@ -20,25 +20,6 @@ Whether it's optimizing queries or experimenting with UI, I’m always up for le
 
 ---
 
-## 🛠️ Technologies & Tools
-
-**Languages**  
-C • C++ • C# • Java • JavaScript • SQL
-
-**Backend & Enterprise Development**  
-Spring Boot • Java EE • EJB • JPA • Maven
-
-**Web Development**  
-HTML • CSS • JavaScript *(learning...)*
-
-**Testing & Automation**  
-JUnit • Mockito • Robot Framework • Postman
-
-**Embedded Systems**  
-AVR • Microcontrollers
-
----
-
 ## 🌟 Interests
 
 - 🖥️ Backend Development
@@ -68,7 +49,7 @@ Want to collaborate, brainstorm, or just chat about tech? I’d love to connect!
 
 ---
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)]
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
