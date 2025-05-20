@@ -49,7 +49,7 @@ Want to collaborate, brainstorm, or just chat about tech? I’d love to connect!
 
 ---
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)]
+  ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
