@@ -69,7 +69,8 @@ Want to collaborate, brainstorm, or just chat about tech? I’d love to connect!
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:jana.a.m.abdallah@gmail.com)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=dark)](https://git.io/streak-stats)
+                ![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=github-dark-blue)](https://git.io/streak-stats)
+  
+                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 ✨ *“Learning never stops. I’m here to grow, build, and share — one commit at a time.”*
