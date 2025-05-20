@@ -69,6 +69,6 @@ Want to collaborate, brainstorm, or just chat about tech? I’d love to connect!
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:jana.a.m.abdallah@gmail.com)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?JanaAbdallah=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=dark)](https://git.io/streak-stats)
 
 ✨ *“Learning never stops. I’m here to grow, build, and share — one commit at a time.”*
