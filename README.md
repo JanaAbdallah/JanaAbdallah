@@ -1,15 +1,12 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="45%"/>
-  
-  <div>
-    <h1>👋 Hi! I'm Jana Abdallah</h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=380&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer+in+Progress;Always+Learning+Something+New" alt="Typing SVG" />
-    </a>
-  </div>
-</div>
+<h1 align="center">👋 Hi! I'm Jana Abdallah</h1>
 
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=380&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer+in+Progress;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" style="vertical-align: middle; margin-left: 10px;" />
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jana--abdallah/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=github)](https://janaabdallah.github.io/portfolio/)
