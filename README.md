@@ -1,3 +1,6 @@
+<!-- Banner GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
 # 👋 Hello! I'm Jana Abdallah  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer+in+Progress;Always+Learning+Something+New)](https://git.io/typing-svg)
@@ -11,7 +14,7 @@
 ## 📖 About Me  
 
 🎓 **Senior Software Engineering Student @ Cairo University**  
-💼 Interned at **Valeo** & **Vodafone** 
+💼 Interned at **Valeo** & **Vodafone**  
 🌱 Passionate about **System Design**, **Problem Solving**, and **Backend Development**  
 💻 Exploring **Full-Stack Development** and real-world scalability  
 📫 Reach me at: **jana.a.m.abdalah@gmail.com**
@@ -45,11 +48,6 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<!-- Banner GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 ---
 
