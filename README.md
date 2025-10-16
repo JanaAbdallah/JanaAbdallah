@@ -55,8 +55,11 @@
 
 ## 🧾 Projects  
 
-- [**BookStoreSystem**](https://github.com/BookStoreSystem) — my repository for a full-featured bookstore system  
-- (You can list more projects here…)  
+- [**BookStoreSystem**](https://github.com/BookStoreSystem) — full-featured bookstore system  
+- [**Mini-Social**](https://github.com/JanaAbdallah/Mini-Social)  
+- [**LMS Maintenance Project**](https://github.com/JanaAbdallah/LMS-Maintenance-Project)  
+- [**Library Management System**](https://github.com/JanaAbdallah/Library_Management_System)  
+- [**Travel Agency**](https://github.com/JanaAbdallah/Travel-Agency)  
 
 ---
 
