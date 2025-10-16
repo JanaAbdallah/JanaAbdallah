@@ -1,27 +1,28 @@
-# 👋 Hello! I'm Jana Abdallah  
+# 👋 Hello World! I'm Jana Abdallah  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer+in+Progress;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jana--abdallah/)
-[![Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=adobeacrobatreader)](https://janaabdallah.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=github)](https://janaabdallah.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jana.a.m.abdalah@gmail.com)
 
 ---
 
 ## 📖 About Me  
 
-🎓 Software Engineering Student @ **Cairo University**  
-💼 Former Intern at **Valeo**, **Vodafone**, and **Cognifyz Tech**  
-🌱 Passionate about **System Design**, **Problem Solving**, & **Backend Development**  
-💻 Exploring **Full-Stack Development** through real-world projects  
-📫 How to reach me: **jana.a.m.abdalah@gmail.com**
+🎓 **Software Engineering Student @ Cairo University**  
+💼 Interned at **Valeo**, **Vodafone**, & **Cognifyz Tech**  
+🌱 Passionate about **System Design**, **Problem Solving**, and **Backend Development**  
+💻 Exploring **Full-Stack Development** and real-world scalability  
+🔋 Studying **Embedded Systems (AVR Diploma)**  
+📫 Reach me at: **jana.a.m.abdalah@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 📋 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,10 +49,15 @@
 
 ---
 
+<!-- Banner GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
+---
+
 ## 📈 GitHub Stats  
 
 ![Jana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanaAbdallah&show_icons=true&theme=tokyonight&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaAbdallah&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
