@@ -82,4 +82,4 @@
 
 ![View Count](https://komarev.com/ghpvc/?username=JanaAbdallah&style=for-the-badge&color=blue)
 
-✨ *“Keep learning, keep building, and keep shipping.”* 🚀  
+✨ *“Keep learning, keep building, and keep going.”* 🚀  
