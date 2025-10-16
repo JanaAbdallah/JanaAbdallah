@@ -14,7 +14,6 @@
 💼 Former Intern at **Valeo**, **Vodafone**, and **Cognifyz Tech**  
 🌱 Passionate about **System Design**, **Problem Solving**, & **Backend Development**  
 💻 Exploring **Full-Stack Development** through real-world projects  
-🔋 Currently studying **Embedded Systems (AVR Diploma)**  
 📫 How to reach me: **jana.a.m.abdalah@gmail.com**
 
 ---
