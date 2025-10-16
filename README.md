@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Jana Abdallah  
+# 👋 Hello! I'm Jana Abdallah  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer+in+Progress;Always+Learning+Something+New)](https://git.io/typing-svg)
 
@@ -11,10 +11,9 @@
 ## 📖 About Me  
 
 🎓 **Software Engineering Student @ Cairo University**  
-💼 Interned at **Valeo**, **Vodafone**, & **Cognifyz Tech**  
+💼 Interned at **Valeo** & **Vodafone** 
 🌱 Passionate about **System Design**, **Problem Solving**, and **Backend Development**  
 💻 Exploring **Full-Stack Development** and real-world scalability  
-🔋 Studying **Embedded Systems (AVR Diploma)**  
 📫 Reach me at: **jana.a.m.abdalah@gmail.com**
 
 ---
@@ -57,7 +56,6 @@
 ## 📈 GitHub Stats  
 
 ![Jana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanaAbdallah&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=JanaAbdallah&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaAbdallah&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
