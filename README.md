@@ -10,7 +10,7 @@
 
 ## 📖 About Me  
 
-🎓 **Software Engineering Student @ Cairo University**  
+🎓 **Senior Software Engineering Student @ Cairo University**  
 💼 Interned at **Valeo** & **Vodafone** 
 🌱 Passionate about **System Design**, **Problem Solving**, and **Backend Development**  
 💻 Exploring **Full-Stack Development** and real-world scalability  
