@@ -2,7 +2,7 @@
   👋 Hi! I'm Jana Abdallah
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=420&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
   </a>
