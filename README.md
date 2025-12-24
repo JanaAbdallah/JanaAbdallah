@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Horizontal Badges)  
+## 🛠️ Tech Stack
 
 ### 📋 Languages  
 <p>
