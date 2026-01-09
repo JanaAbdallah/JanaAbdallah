@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jana--abdallah/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=github)](https://janaabdallah.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jana.a.m.abdalah@gmail.com)
+
 
 ---
 
@@ -18,9 +18,7 @@
 
 🎓 **Senior Software Engineering Student @ Cairo University**  
 💼 Interned at **Valeo** & **Vodafone**  
-🌱 Passionate about **System Design**, **Problem Solving**, and **Full-Stack Development**  
-💻 Experienced with **Backend Development**, **Frontend Development**, **Docker & Kubernetes**, **VMware**, and **Linux**  
-🛠️ Skilled in working with **SQL & NoSQL databases**, **ReactJS**, **NextJS**, **FastAPI**, PHP, and more  
+🌱 Passionate about **System Design**, **Problem Solving**, and **Full-Stack Development**   
 📫 Reach me at: **jana.a.m.abdalah@gmail.com**
 
 ---
