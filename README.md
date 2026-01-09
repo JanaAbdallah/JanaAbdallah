@@ -79,14 +79,6 @@
 
 ---
 
-## 🎮 Let's Connect!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jana--abdallah/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://janaabdallah.github.io/portfolio/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jana.a.m.abdalah@gmail.com)
-
----
-
 ![View Count](https://komarev.com/ghpvc/?username=JanaAbdallah&style=for-the-badge&color=blue)
 
 ✨ *“Keep learning, keep building, and keep going.”* 🚀
