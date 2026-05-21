@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=420&lines=Software+Engineering+Student;Full+Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=420&lines=Software+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 🎓 **Senior Software Engineering Student @ Cairo University**  
 💼 Interned at **Valeo** & **Vodafone**  
-🌱 Passionate about **System Design**, **Problem Solving**, and **Full-Stack Development**   
+🌱 Passionate about **Distributed Systems**, **System Design**, **Problem Solving**, and **Full-Stack Development**   
 📫 Reach me at: **jana.a.m.abdalah@gmail.com**
 
 ---
