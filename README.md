@@ -18,7 +18,7 @@
 
 🎓 **Senior Software Engineering Student @ Cairo University**  
 💼 Interned at **Valeo** & **Vodafone**  
-🌱 Passionate about **Distributed Systems**, **System Design**, **Problem Solving**, and **Full-Stack Development**   
+🌱 Passionate about **Distributed Systems**, **System Design**, **DevOps**, and **Full-Stack Development**   
 📫 Reach me at: **jana.a.m.abdalah@gmail.com**
 
 ---
